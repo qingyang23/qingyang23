@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Applied AI and Analytics in Singapore Polytechnic
+- 🌱 Applied AI and Analytics in Singapore Polytechnic
   
 <!--
 **qingyang23/qingyang23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
